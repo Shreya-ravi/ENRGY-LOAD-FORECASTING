@@ -42,6 +42,8 @@ cd energy-load-forecasting
 
 # 2. Install Dependencies
 pip install -r requirements.txt
+pip install streamlit app
+pip install matplotlib
 
 # 3. Run Jupyter Notebook
 jupyter notebook
