@@ -92,3 +92,8 @@ jupyter
 ## If you want GPU support, you can use:
 
 tensorflow-gpu
+
+# 🔧 How to Run
+streamlit run app.py
+streamlit run LIVE.py
+
