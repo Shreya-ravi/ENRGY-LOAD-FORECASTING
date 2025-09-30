@@ -66,7 +66,7 @@ Open notebooks/energy_forecasting.ipynb to start training and live tracking.
 
 
 ## Forecast Table
-<img width="1909" height="946" alt="image" src="https://github.com/user-attachments/assets/46a59af5-df44-4bd0-8d3f-766fdb13599e" />
+<img width="1909" height="946" alt="image" src="https://github.com/user-attachments/assets/46a59af5-df44-4bd0-8d3f-766fdb13599e" />.
 
 
 
