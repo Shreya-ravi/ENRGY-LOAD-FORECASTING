@@ -49,13 +49,14 @@ jupyter notebook
 Open notebooks/energy_forecasting.ipynb to start training and live tracking.
 
 # 📊 Example Output
-## Training Forecast (LIVE.py)
+### Training Forecast (LIVE.py)   
+Tracks Live  
 <img width="319" height="311" alt="image" src="https://github.com/user-attachments/assets/8c3c15f1-c06d-4408-90ed-db50991ef878" />
 <img width="854" height="433" alt="image" src="https://github.com/user-attachments/assets/f327b9aa-b101-4b68-b2c2-43a96e48cde7" />
 
 
-## Live Tracking Simulation (app.py)
-
+##  Tracking Simulation (app.py)
+Generates power consumption from expected date to end date mentioned.
 <img width="767" height="824" alt="image" src="https://github.com/user-attachments/assets/fd6dd5d9-fc9a-49ee-a4ef-9df0372df88e" />
 
 <img width="389" height="405" alt="image" src="https://github.com/user-attachments/assets/93f2f9b9-5db5-4759-9a34-bc081d7099fd" />
