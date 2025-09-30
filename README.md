@@ -49,9 +49,26 @@ jupyter notebook
 Open notebooks/energy_forecasting.ipynb to start training and live tracking.
 
 # 📊 Example Output
-Training Forecast
+## Training Forecast (LIVE.py)
+<img width="319" height="311" alt="image" src="https://github.com/user-attachments/assets/8c3c15f1-c06d-4408-90ed-db50991ef878" />
+<img width="854" height="433" alt="image" src="https://github.com/user-attachments/assets/f327b9aa-b101-4b68-b2c2-43a96e48cde7" />
 
-Live Tracking Simulation
+
+## Live Tracking Simulation (app.py)
+
+<img width="767" height="824" alt="image" src="https://github.com/user-attachments/assets/fd6dd5d9-fc9a-49ee-a4ef-9df0372df88e" />
+
+<img width="389" height="405" alt="image" src="https://github.com/user-attachments/assets/93f2f9b9-5db5-4759-9a34-bc081d7099fd" />
+
+<img width="780" height="292" alt="image" src="https://github.com/user-attachments/assets/8a5e5428-f173-4be2-86f2-5a1d7401194d" />
+
+<img width="721" height="497" alt="image" src="https://github.com/user-attachments/assets/c3ea7419-e6f3-437a-a313-5ab3861e3685" />
+
+
+## Forecast Table
+<img width="1909" height="946" alt="image" src="https://github.com/user-attachments/assets/46a59af5-df44-4bd0-8d3f-766fdb13599e" />
+
+
 
 # 🔮 Applications
 
